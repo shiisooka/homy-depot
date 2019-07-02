@@ -1,0 +1,363 @@
+# Copyright (C) 2015 Easy Listings Map
+# This file is distributed under the same license as the Easy Listings Map package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Listings Map 1.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/easy-listings-map\n"
+"POT-Creation-Date: 2015-07-11 22:05:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-easy-listings-map-admin-element.php:37
+msgid ""
+"The callback function used for the <strong>%s</strong> setting is missing."
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-element.php:61
+msgid "Upload File"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-menu.php:51
+msgid "Easy Listings Map Settings"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:66
+msgid "General"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:67
+msgid "Markers"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:136
+msgid "Marker"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:139
+msgid "Marker for %s %s"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:153
+msgid "Display map in single listing page"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:154
+msgid "This option will shows the map in single listing page in enabled mode."
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:158
+#: admin/partials/editor/shortcode-content.php:107
+msgid "Enabled"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:159
+#: admin/partials/editor/shortcode-content.php:108
+msgid "Disabled"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:164
+msgid "Single listing page map zoom level"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:165
+msgid "This option will controls map zoom level in single listing page"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:192
+msgid "Height of single page map"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:193
+msgid "Single listing page map height in pixels"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:200
+msgid "Map display type"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:201
+msgid ""
+"If more than one type selected user can switch between map types by map "
+"controls."
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:206
+#: admin/partials/editor/shortcode-content.php:81
+msgid "Roadmap"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:211
+msgid "Sattelite"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:216
+#: admin/partials/editor/shortcode-content.php:89
+msgid "Hybrid"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:221
+#: admin/partials/editor/shortcode-content.php:93
+msgid "Terrain"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:234
+msgid "Map multiple marker"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:237
+msgid "Marker for listings that have same coordinates"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin-settings-menu.php:305
+msgid "Settings updated."
+msgstr ""
+
+#: admin/class-easy-listings-map-admin.php:209
+msgid "Use This File"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin.php:210
+msgid "Add New Download"
+msgstr ""
+
+#: admin/class-easy-listings-map-admin.php:257
+msgid ""
+"Thank you for using <a href=\"%1$s\" target=\"_blank\">Easy Listings Map</"
+"a>! Please <a href=\"%2$s\" target=\"_blank\">rate us</a> on <a href=\"%2$s"
+"\" target=\"_blank\">WordPress.org</a>"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:19
+msgid "Google Maps Shortcode"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:23
+msgid "Insert"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:27
+msgid "Title"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:28
+msgid "Title of the map"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:33
+#: admin/partials/editor/shortcode-content.php:34
+msgid "Listing types that shown in the map"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:47
+msgid "Listing status"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:48
+msgid "Status of listings"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:62
+msgid "Number of listings in the map"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:63
+msgid "Number of listings in the map, -1 for choosing all of listings"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:68
+msgid "Listings order"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:69
+msgid "Choosing between new or old added listings"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:71
+msgid "DESC( Recent added )"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:72
+msgid "ASC( First added )"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:77
+msgid "Map display types"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:78
+msgid "Display types of the map"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:85
+msgid "Satellite"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:98
+msgid "Map height"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:99
+msgid "Map html element height"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:104
+msgid "Map Auto Zoom Feature"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:105
+msgid ""
+"If enabled map will choose best zoom level for showing many of the listings "
+"in the map"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:113
+msgid "Map zoom"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:114
+msgid "Zoom level of the map when auto zoom disabled"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:139
+msgid "Cluster grid size"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:140
+msgid "Grid size of the cluster"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:142
+msgid "Default"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:151
+msgid "Default latitude of the map"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:152
+msgid ""
+"Default latitude of the map when there is not any listing in the map and map "
+"will show default coordinate"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:157
+msgid "Default longitude of the map"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:158
+msgid ""
+"Default longitude of the map when there is not any listing in the map and "
+"map will show default coordinate"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:163
+msgid "Html element id of the map"
+msgstr ""
+
+#: admin/partials/editor/shortcode-content.php:164
+msgid ""
+"Html element id of the map, when left empty it will produce id automatically "
+"based on time"
+msgstr ""
+
+#: includes/class-easy-listings-map-properties.php:29
+#: includes/class-easy-listings-map-properties.php:81
+msgid "Current"
+msgstr ""
+
+#: includes/class-easy-listings-map-properties.php:30
+#: includes/class-easy-listings-map-properties.php:82
+msgid "Withdrawn"
+msgstr ""
+
+#: includes/class-easy-listings-map-properties.php:31
+#: includes/class-easy-listings-map-properties.php:83
+msgid "Off Market"
+msgstr ""
+
+#: includes/class-easy-listings-map-properties.php:33
+#: includes/class-easy-listings-map-properties.php:85
+msgid "Sold"
+msgstr ""
+
+#: includes/class-easy-listings-map-properties.php:37
+#: includes/class-easy-listings-map-properties.php:89
+msgid "Leased"
+msgstr ""
+
+#: includes/class-easy-listings-map-properties.php:182
+msgid "Bedrooms"
+msgstr ""
+
+#: includes/class-easy-listings-map-properties.php:184
+#: includes/class-easy-listings-map-properties.php:186
+msgid "bed"
+msgstr ""
+
+#: includes/class-easy-listings-map-properties.php:208
+msgid "Bathrooms"
+msgstr ""
+
+#: includes/class-easy-listings-map-properties.php:210
+#: includes/class-easy-listings-map-properties.php:212
+msgid "bath"
+msgstr ""
+
+#: includes/class-easy-listings-map-properties.php:236
+#: includes/class-easy-listings-map-properties.php:238
+#: includes/class-easy-listings-map-properties.php:240
+msgid "Parking Spaces"
+msgstr ""
+
+#: includes/class-easy-listings-map-properties.php:259
+msgid "Air Conditioning"
+msgstr ""
+
+#: includes/class-easy-listings-map-properties.php:261
+msgid "Air conditioning"
+msgstr ""
+
+#: includes/class-easy-listings-map-properties.php:281
+#: includes/class-easy-listings-map-properties.php:283
+msgid "Pool"
+msgstr ""
+
+#: includes/class-easy-property-listings-extension-activation.php:39
+msgid "Easy Property Listings Extension"
+msgstr ""
+
+#: includes/class-easy-property-listings-extension-activation.php:74
+msgid "activate it"
+msgstr ""
+
+#: includes/class-easy-property-listings-extension-activation.php:77
+msgid "install it"
+msgstr ""
+
+#: includes/class-easy-property-listings-extension-activation.php:80
+msgid " requires Easy Property Listings! Please %s to continue!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Listings Map"
+msgstr ""
+
+#. #-#-#-#-#  easy-listings-map.pot (Easy Listings Map 1.1.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  easy-listings-map.pot (Easy Listings Map 1.1.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.asanaplugins.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easy to use and advanced map extension for Easy Property Listings plugin"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Taher Atashbar"
+msgstr ""

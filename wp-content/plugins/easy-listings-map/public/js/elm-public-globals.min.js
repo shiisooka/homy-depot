@@ -1,0 +1,1 @@
+var elmPublicAjaxUrl=elmGlobals.ajaxurl;

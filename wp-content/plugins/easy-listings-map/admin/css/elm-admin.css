@@ -1,0 +1,113 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.help_tip {
+	margin-right: 10px;
+	cursor: help;
+	vertical-align: middle;
+}
+
+/* TipTip CSS - Version 1.2 (custom) */
+#tiptip_holder.tip_bottom {
+    padding-top: 5px;
+}
+#tiptip_holder {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 99999;
+}
+#tiptip_arrow, #tiptip_arrow_inner {
+	position: absolute;
+	border-color: transparent;
+	border-style: solid;
+	border-width: 6px;
+	height: 0;
+	width: 0;
+}
+#tiptip_holder.tip_bottom #tiptip_arrow_inner {
+	margin-top: -5px;
+	margin-left: -6px;
+	border-bottom-color: #464646;
+}
+#tiptip_content {
+	font-size: 11px;
+	color: #fff;
+	padding: .5em;
+	background: #464646;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-box-shadow: 1px 1px 3px rgba(0,0,0,.1);
+	-moz-box-shadow: 1px 1px 3px rgba(0,0,0,.1);
+	box-shadow: 1px 1px 3px rgba(0,0,0,.1);
+	text-align: center;
+	max-width: 150px;
+}
+
+/* shortcode-content styles */
+.elm-shortcode .shortcode-row ul#location {
+	height: 86px;
+	overflow: auto;
+	list-style-type: none;
+}
+.elm-shortcode .shortcode-row ul#location ul {
+	list-style-type: none;
+}
+ /* Subscribe styles */
+.subscribe-form input[type="text"].error-field, .subscribe-form input[type="email"].error-field {
+    border-color: red;
+    background-color: #F6D3D3;
+}
+.subscribe-form th {
+	width: 70px;
+}
+.subscribe-form .message {
+    background: #fff none repeat scroll 0 0;
+    border-left: 4px solid #fff;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+    margin: 5px 15px 2px 0px;
+    padding: 11px 15px;
+}
+.subscribe-form .message-info {
+    border-color: #00a0d2;
+}
+.subscribe-form .message-error {
+    border-color: #dd3d36;
+}
+.subscribe-form .message-success {
+    border-color: #7ad03a;
+}
+.subscribe-container {
+	background-color: #fff;
+	padding: 30px;
+	margin: 10px 10px 0px 10px;
+	border-left: 4px solid #27b14f;
+	-webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,0.1);
+	box-shadow: 0 1px 1px 0 rgba(0,0,0,0.1);
+}
+.subscribe-container input[type="text"],
+.subscribe-container input[type="email"] {
+	font-size: 16px;
+	line-height: 1.5;
+	padding: 7px 10px;
+	display: block;
+	max-width: none;
+}
+#subscribe-info {
+	font-size: 18px;
+}
+#subscribe-info span {
+	text-decoration: underline;
+	color: #00a0d2;
+}
+
+/* Media Queries */
+@media only screen and ( min-width: 782px ) {
+	.subscribe-container input[type="text"],
+	.subscribe-container input[type="email"] {
+		width: 60%;
+	}
+}

@@ -1,0 +1,50 @@
+.asn-advertise {
+    background: #fff;
+    border-color: #ED494D;
+    border-top: 4px;
+    display: block;
+    min-height: 170px;
+    padding: 10px 40px 10px 180px;
+    position: relative;
+}
+
+.asn-adv-logo {
+    clear: both;
+    content: "";
+    display: block;
+    background-image: url(../images/asana-plugins-logo.png);
+    background-size: 180px 43px;
+    background-repeat: no-repeat;
+    background-position: 0 45%;
+    width: 180px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 5px;
+}
+
+.asn-adv-title {
+    font-size: 24px;
+    margin: 0;
+}
+
+.asn-adv-body {
+    font-weight: normal;
+    margin: 5px 0;
+}
+
+.asn-adv-body a,
+ul.asn-adv-body {
+    color: #ED494D;
+}
+
+ul.asn-adv-body li {
+    float: left;
+    margin-right: 20px;
+}
+
+.asn-adv-body:after {
+    clear: both;
+    content: '';
+    display: block;
+}
